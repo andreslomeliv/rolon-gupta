@@ -11,7 +11,7 @@
 * Chemistry
 
 
-You should really check out this [website](https://www.imperial.ac.u1)
+You should really check out this [website](https://www.imperial.ac.uk)
 
 
 <!--
