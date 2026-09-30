@@ -5,12 +5,11 @@
 ### I really dislike Abstract maths topics like homomorphisms in Group theory and Complex analysis.
 
 
-### At A- levels I studied 
-\begin{itemize}
-  \item{Maths}
-  \item{Further Maths}
-  \{item}{Chemistry}
-\end{itemize}  
+### At A- levels I studied:
+* Maths
+* Further Maths
+* Chemistry
+
 
 You should really check out this [website](https://www.imperial.ac.uk)
 
