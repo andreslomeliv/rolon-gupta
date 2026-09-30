@@ -9,7 +9,8 @@
 \begin{itemize}
   \item{Maths}
   \item{Further Maths}
-  \item{Chemistry}
+  \{item}{Chemistry}
+\end{itemize}  
 
 You should really check out this [website](https://www.imperial.ac.uk)
 
