@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi there 👋, my name is Rolon
+
+### I am currently an MSc student at Imperial studying Statistics (General Stream). My favourite topics in statistics revolve around Bayesian Mathematics.
+
+### I really dislike Abstract maths topics like homomorphisms in Group theory and Complex analysis.
+
+
+### At A- levels I studied 
+\begin{itemize}
+  \item{Maths}
+  \item{Further Maths}
+  \item{Chemistry}
+
+You should really check out this [website](https://www.imperial.ac.uk)
+
 
 <!--
 **rolon-gupta/rolon-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
